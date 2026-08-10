@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ryahpu.hsteamid.com/sitemap.xml
